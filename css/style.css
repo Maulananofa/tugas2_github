@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Frameset styles */
+frameset {
+    border: none;
+}
+
+/* Navigation styles */
+fieldset {
+    border: 2px solid #333;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+legend {
+    font-weight: bold;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    color: #555;
+}
+
+/* Content styles */
+fieldset img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
